@@ -1,0 +1,10 @@
+{
+  "display_name": "Python 3.14 (XPython)",
+  "argv": [
+      "/workspaces/ISL-ch5-jupyterlite/venv/bin/xpython",
+      "-f",
+      "{connection_file}"
+  ],
+  "language": "python",
+  "metadata": { "debugger": true}
+}

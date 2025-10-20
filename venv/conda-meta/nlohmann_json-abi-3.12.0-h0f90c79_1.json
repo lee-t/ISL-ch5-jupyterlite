@@ -1,0 +1,31 @@
+{
+  "build": "h0f90c79_1",
+  "build_number": 1,
+  "channel": "https://repo.prefix.dev/conda-forge/noarch",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "/opt/conda/pkgs/nlohmann_json-abi-3.12.0-h0f90c79_1",
+  "files": [],
+  "fn": "nlohmann_json-abi-3.12.0-h0f90c79_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/opt/conda/pkgs/nlohmann_json-abi-3.12.0-h0f90c79_1",
+    "type": 1
+  },
+  "md5": "59659d0213082bc13be8500bab80c002",
+  "name": "nlohmann_json-abi",
+  "noarch": "generic",
+  "package_tarball_full_path": "/opt/conda/pkgs/nlohmann_json-abi-3.12.0-h0f90c79_1.conda",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "2a909594ca78843258e4bda36e43d165cda844743329838a29402823c8f20dec",
+  "size": 4335,
+  "subdir": "noarch",
+  "timestamp": 1758194464000,
+  "url": "https://repo.prefix.dev/conda-forge/noarch/nlohmann_json-abi-3.12.0-h0f90c79_1.conda",
+  "version": "3.12.0"
+}

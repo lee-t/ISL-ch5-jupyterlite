@@ -1,0 +1,166 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://repo.prefix.dev/conda-forge/noarch",
+  "constrains": [
+    "debugpy >=1.4,<2"
+  ],
+  "depends": [
+    "python >=3.9"
+  ],
+  "extracted_package_dir": "/opt/conda/pkgs/xeus-python-shell-raw-0.6.4-pyhd8ed1ab_0",
+  "files": [
+    "lib/python3.14/site-packages/xeus_python_shell-0.6.4.dist-info/INSTALLER",
+    "lib/python3.14/site-packages/xeus_python_shell-0.6.4.dist-info/LICENSE",
+    "lib/python3.14/site-packages/xeus_python_shell-0.6.4.dist-info/METADATA",
+    "lib/python3.14/site-packages/xeus_python_shell-0.6.4.dist-info/RECORD",
+    "lib/python3.14/site-packages/xeus_python_shell-0.6.4.dist-info/REQUESTED",
+    "lib/python3.14/site-packages/xeus_python_shell-0.6.4.dist-info/WHEEL",
+    "lib/python3.14/site-packages/xeus_python_shell-0.6.4.dist-info/direct_url.json",
+    "lib/python3.14/site-packages/xeus_python_shell-0.6.4.dist-info/top_level.txt",
+    "lib/python3.14/site-packages/xeus_python_shell/__init__.py",
+    "lib/python3.14/site-packages/xeus_python_shell/compiler.py",
+    "lib/python3.14/site-packages/xeus_python_shell/debugger.py",
+    "lib/python3.14/site-packages/xeus_python_shell/display.py",
+    "lib/python3.14/site-packages/xeus_python_shell/shell.py",
+    "lib/python3.14/site-packages/xeus_python_shell/__pycache__/__init__.cpython-314.pyc",
+    "lib/python3.14/site-packages/xeus_python_shell/__pycache__/compiler.cpython-314.pyc",
+    "lib/python3.14/site-packages/xeus_python_shell/__pycache__/debugger.cpython-314.pyc",
+    "lib/python3.14/site-packages/xeus_python_shell/__pycache__/display.cpython-314.pyc",
+    "lib/python3.14/site-packages/xeus_python_shell/__pycache__/shell.cpython-314.pyc"
+  ],
+  "fn": "xeus-python-shell-raw-0.6.4-pyhd8ed1ab_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/opt/conda/pkgs/xeus-python-shell-raw-0.6.4-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "db411b7d87685510ff978a3a87284603",
+  "name": "xeus-python-shell-raw",
+  "noarch": "python",
+  "package_tarball_full_path": "/opt/conda/pkgs/xeus-python-shell-raw-0.6.4-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/xeus_python_shell-0.6.4.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/xeus_python_shell-0.6.4.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "d2fdf013343aea6bd9afb6636f8c19589328cb8b9c2609a8053795af0a083c37",
+        "sha256_in_prefix": "d2fdf013343aea6bd9afb6636f8c19589328cb8b9c2609a8053795af0a083c37",
+        "size_in_bytes": 1518
+      },
+      {
+        "_path": "site-packages/xeus_python_shell-0.6.4.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "f9c5c6793a79d0c0d54957d9834a1df13a3984778af16b0b0f91a07eaefa3596",
+        "sha256_in_prefix": "f9c5c6793a79d0c0d54957d9834a1df13a3984778af16b0b0f91a07eaefa3596",
+        "size_in_bytes": 1202
+      },
+      {
+        "_path": "site-packages/xeus_python_shell-0.6.4.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "a1ac6d3b44bb796a3e077c2e6f8ece8ee01e0dbdbf5747bd3b0e0fdade6dac09",
+        "sha256_in_prefix": "a1ac6d3b44bb796a3e077c2e6f8ece8ee01e0dbdbf5747bd3b0e0fdade6dac09",
+        "size_in_bytes": 1451
+      },
+      {
+        "_path": "site-packages/xeus_python_shell-0.6.4.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/xeus_python_shell-0.6.4.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "8c1ef367737d84833d69d5bbaa54c0cb270b616f67a5a58a2d1cdaa1570b29c3",
+        "sha256_in_prefix": "8c1ef367737d84833d69d5bbaa54c0cb270b616f67a5a58a2d1cdaa1570b29c3",
+        "size_in_bytes": 91
+      },
+      {
+        "_path": "site-packages/xeus_python_shell-0.6.4.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "782812d1e60f4bac58294f7b6f1aa1e4dcac56b1070204e4ad6f7d872d113fa0",
+        "sha256_in_prefix": "782812d1e60f4bac58294f7b6f1aa1e4dcac56b1070204e4ad6f7d872d113fa0",
+        "size_in_bytes": 113
+      },
+      {
+        "_path": "site-packages/xeus_python_shell-0.6.4.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "ae7bc36f18acfd1fc7186fd573a176ac841512e82ebdc724eb90d52ee81696b1",
+        "sha256_in_prefix": "ae7bc36f18acfd1fc7186fd573a176ac841512e82ebdc724eb90d52ee81696b1",
+        "size_in_bytes": 18
+      },
+      {
+        "_path": "site-packages/xeus_python_shell/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/xeus_python_shell/compiler.py",
+        "path_type": "hardlink",
+        "sha256": "38bcef7589d6bae72c90faf14f381d0ce9cdf460459f70807907fc90d83070cb",
+        "sha256_in_prefix": "38bcef7589d6bae72c90faf14f381d0ce9cdf460459f70807907fc90d83070cb",
+        "size_in_bytes": 587
+      },
+      {
+        "_path": "site-packages/xeus_python_shell/debugger.py",
+        "path_type": "hardlink",
+        "sha256": "80ad8c560e6da5422611fc4d78328181b9b60afe1cb113262a7b74faad3dd859",
+        "sha256_in_prefix": "80ad8c560e6da5422611fc4d78328181b9b60afe1cb113262a7b74faad3dd859",
+        "size_in_bytes": 3805
+      },
+      {
+        "_path": "site-packages/xeus_python_shell/display.py",
+        "path_type": "hardlink",
+        "sha256": "fec0d25f32af8764ee34a014cef956baf73823edfa2a96febd708694126b4b72",
+        "sha256_in_prefix": "fec0d25f32af8764ee34a014cef956baf73823edfa2a96febd708694126b4b72",
+        "size_in_bytes": 1383
+      },
+      {
+        "_path": "site-packages/xeus_python_shell/shell.py",
+        "path_type": "hardlink",
+        "sha256": "ccddac7c8b90ed1be9555d59a98f118ac4fd66c40c905ffd964c881b70e96158",
+        "sha256_in_prefix": "ccddac7c8b90ed1be9555d59a98f118ac4fd66c40c905ffd964c881b70e96158",
+        "size_in_bytes": 3602
+      },
+      {
+        "_path": "lib/python3.14/site-packages/xeus_python_shell/__pycache__/__init__.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/xeus_python_shell/__pycache__/compiler.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/xeus_python_shell/__pycache__/debugger.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/xeus_python_shell/__pycache__/display.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/xeus_python_shell/__pycache__/shell.cpython-314.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "729a97a0115f84a8e3d19d2e7770597e57ff24b3406c2a90e1f6858d0c1c5e4b",
+  "size": 12228,
+  "subdir": "noarch",
+  "timestamp": 1742899224000,
+  "url": "https://repo.prefix.dev/conda-forge/noarch/xeus-python-shell-raw-0.6.4-pyhd8ed1ab_0.conda",
+  "version": "0.6.4"
+}

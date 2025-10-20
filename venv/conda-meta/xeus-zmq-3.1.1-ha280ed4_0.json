@@ -1,0 +1,208 @@
+{
+  "build": "ha280ed4_0",
+  "build_number": 0,
+  "channel": "https://repo.prefix.dev/conda-forge/noarch",
+  "constrains": [
+    "cppzmq >=4.10.0,<4.11.0a0"
+  ],
+  "depends": [
+    "libstdcxx >=14",
+    "libgcc >=14",
+    "__glibc >=2.17,<3.0.a0",
+    "zeromq >=4.3.5,<4.4.0a0",
+    "openssl >=3.5.3,<4.0a0",
+    "nlohmann_json-abi 3.12.0",
+    "libuuid >=2.41.1,<3.0a0",
+    "xeus >=5.2.4,<5.3.0a0"
+  ],
+  "extracted_package_dir": "/opt/conda/pkgs/xeus-zmq-3.1.1-ha280ed4_0",
+  "files": [
+    "include/xeus-zmq/xclient_zmq.hpp",
+    "include/xeus-zmq/xcontrol_default_runner.hpp",
+    "include/xeus-zmq/xcontrol_runner.hpp",
+    "include/xeus-zmq/xdap_tcp_client.hpp",
+    "include/xeus-zmq/xdebugger_base.hpp",
+    "include/xeus-zmq/xeus-zmq.hpp",
+    "include/xeus-zmq/xmiddleware.hpp",
+    "include/xeus-zmq/xserver_zmq.hpp",
+    "include/xeus-zmq/xserver_zmq_split.hpp",
+    "include/xeus-zmq/xshell_default_runner.hpp",
+    "include/xeus-zmq/xshell_runner.hpp",
+    "include/xeus-zmq/xthread.hpp",
+    "include/xeus-zmq/xzmq_context.hpp",
+    "lib/cmake/xeus-zmq/xeus-zmqConfig.cmake",
+    "lib/cmake/xeus-zmq/xeus-zmqConfigVersion.cmake",
+    "lib/cmake/xeus-zmq/xeus-zmqTargets-release.cmake",
+    "lib/cmake/xeus-zmq/xeus-zmqTargets.cmake",
+    "lib/libxeus-zmq.a",
+    "lib/libxeus-zmq.so",
+    "lib/libxeus-zmq.so.6",
+    "lib/libxeus-zmq.so.6.1.1"
+  ],
+  "fn": "xeus-zmq-3.1.1-ha280ed4_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/opt/conda/pkgs/xeus-zmq-3.1.1-ha280ed4_0",
+    "type": 1
+  },
+  "md5": "e3694998d96207283c067de1837b7cc6",
+  "name": "xeus-zmq",
+  "package_tarball_full_path": "/opt/conda/pkgs/xeus-zmq-3.1.1-ha280ed4_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "include/xeus-zmq/xclient_zmq.hpp",
+        "path_type": "hardlink",
+        "sha256": "e6efa59b1cc8a355621b49b9bcccca7ee2bb65013f565bbe4a6620c94777f9f3",
+        "sha256_in_prefix": "e6efa59b1cc8a355621b49b9bcccca7ee2bb65013f565bbe4a6620c94777f9f3",
+        "size_in_bytes": 2427
+      },
+      {
+        "_path": "include/xeus-zmq/xcontrol_default_runner.hpp",
+        "path_type": "hardlink",
+        "sha256": "8b6dcd6beb7143abd441d332fad5f0a8c21286bf9ed59f3f46b03512dac5d71a",
+        "sha256_in_prefix": "8b6dcd6beb7143abd441d332fad5f0a8c21286bf9ed59f3f46b03512dac5d71a",
+        "size_in_bytes": 1109
+      },
+      {
+        "_path": "include/xeus-zmq/xcontrol_runner.hpp",
+        "path_type": "hardlink",
+        "sha256": "95ad51e45a8abf8b84cf1d6f98801b75ec9cdfe77990454c07c5a3c2382e6a2b",
+        "sha256_in_prefix": "95ad51e45a8abf8b84cf1d6f98801b75ec9cdfe77990454c07c5a3c2382e6a2b",
+        "size_in_bytes": 1685
+      },
+      {
+        "_path": "include/xeus-zmq/xdap_tcp_client.hpp",
+        "path_type": "hardlink",
+        "sha256": "63651d52c515ac7f3490daab4ce60dd657e47eaf020bc8fef8a978c2ccdb8c23",
+        "sha256_in_prefix": "63651d52c515ac7f3490daab4ce60dd657e47eaf020bc8fef8a978c2ccdb8c23",
+        "size_in_bytes": 3108
+      },
+      {
+        "_path": "include/xeus-zmq/xdebugger_base.hpp",
+        "path_type": "hardlink",
+        "sha256": "2eb604423cf025c8ff8021ac24a11b32c77201cc957eeeff6ed75de1db5948f2",
+        "sha256_in_prefix": "2eb604423cf025c8ff8021ac24a11b32c77201cc957eeeff6ed75de1db5948f2",
+        "size_in_bytes": 4845
+      },
+      {
+        "_path": "include/xeus-zmq/xeus-zmq.hpp",
+        "path_type": "hardlink",
+        "sha256": "9d1371f0aa3271028cf9b326261fff9382346378415a6c11453a1088d0de5fe2",
+        "sha256_in_prefix": "9d1371f0aa3271028cf9b326261fff9382346378415a6c11453a1088d0de5fe2",
+        "size_in_bytes": 1441
+      },
+      {
+        "_path": "include/xeus-zmq/xmiddleware.hpp",
+        "path_type": "hardlink",
+        "sha256": "c0448036f250bf5d85e22bce120a79b3c1ecf949eb6e98ba0f44ec287390bb43",
+        "sha256_in_prefix": "c0448036f250bf5d85e22bce120a79b3c1ecf949eb6e98ba0f44ec287390bb43",
+        "size_in_bytes": 1417
+      },
+      {
+        "_path": "include/xeus-zmq/xserver_zmq.hpp",
+        "path_type": "hardlink",
+        "sha256": "3561f644f00b2c055b6cf2e024a217694a2ac96a9d3e56e74ba9a37f21d532e0",
+        "sha256_in_prefix": "3561f644f00b2c055b6cf2e024a217694a2ac96a9d3e56e74ba9a37f21d532e0",
+        "size_in_bytes": 2572
+      },
+      {
+        "_path": "include/xeus-zmq/xserver_zmq_split.hpp",
+        "path_type": "hardlink",
+        "sha256": "f983e18620d1fb084d84a3180e13a1e9b3a0b5625df1c4b91213c30e7e1bc0aa",
+        "sha256_in_prefix": "f983e18620d1fb084d84a3180e13a1e9b3a0b5625df1c4b91213c30e7e1bc0aa",
+        "size_in_bytes": 4564
+      },
+      {
+        "_path": "include/xeus-zmq/xshell_default_runner.hpp",
+        "path_type": "hardlink",
+        "sha256": "65f1af173d043db57ab68248d40c96c731339428ce013cbb0357d6a940b1d978",
+        "sha256_in_prefix": "65f1af173d043db57ab68248d40c96c731339428ce013cbb0357d6a940b1d978",
+        "size_in_bytes": 1022
+      },
+      {
+        "_path": "include/xeus-zmq/xshell_runner.hpp",
+        "path_type": "hardlink",
+        "sha256": "25616a35e651e1d8c75bb7b5b9e7a682d3de33c5cfb4174bf467766baa4e1ca3",
+        "sha256_in_prefix": "25616a35e651e1d8c75bb7b5b9e7a682d3de33c5cfb4174bf467766baa4e1ca3",
+        "size_in_bytes": 2124
+      },
+      {
+        "_path": "include/xeus-zmq/xthread.hpp",
+        "path_type": "hardlink",
+        "sha256": "01ea9d035c0cfc6e6454c62113f69a63544d87721d69f0d2df001e995b847cc6",
+        "sha256_in_prefix": "01ea9d035c0cfc6e6454c62113f69a63544d87721d69f0d2df001e995b847cc6",
+        "size_in_bytes": 3086
+      },
+      {
+        "_path": "include/xeus-zmq/xzmq_context.hpp",
+        "path_type": "hardlink",
+        "sha256": "ba276b71f2038cc8e8eff898b32a6523d671c96fbf244e76b492a81a1d3ebe88",
+        "sha256_in_prefix": "ba276b71f2038cc8e8eff898b32a6523d671c96fbf244e76b492a81a1d3ebe88",
+        "size_in_bytes": 224
+      },
+      {
+        "_path": "lib/cmake/xeus-zmq/xeus-zmqConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "ac7cab6d36a10af1835279f138bc726b154c9e4aa5dd59d72233f278596129e7",
+        "sha256_in_prefix": "ac7cab6d36a10af1835279f138bc726b154c9e4aa5dd59d72233f278596129e7",
+        "size_in_bytes": 2882
+      },
+      {
+        "_path": "lib/cmake/xeus-zmq/xeus-zmqConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "469c584cc3547a5464cca8ddd94f375684f51d163a2388e3f52fed1ee1171795",
+        "sha256_in_prefix": "469c584cc3547a5464cca8ddd94f375684f51d163a2388e3f52fed1ee1171795",
+        "size_in_bytes": 1861
+      },
+      {
+        "_path": "lib/cmake/xeus-zmq/xeus-zmqTargets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "2da1e1514f06b92f9d03757a0bd2bfc4f6d3e8c3c96cdf71fc5cc16c2ea35c87",
+        "sha256_in_prefix": "2da1e1514f06b92f9d03757a0bd2bfc4f6d3e8c3c96cdf71fc5cc16c2ea35c87",
+        "size_in_bytes": 1300
+      },
+      {
+        "_path": "lib/cmake/xeus-zmq/xeus-zmqTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "ab89a39e748a51fb165405edccc5d273f8dfcc428c20c8067a05cb7b4a957088",
+        "sha256_in_prefix": "ab89a39e748a51fb165405edccc5d273f8dfcc428c20c8067a05cb7b4a957088",
+        "size_in_bytes": 4738
+      },
+      {
+        "_path": "lib/libxeus-zmq.a",
+        "path_type": "hardlink",
+        "sha256": "b54813f1596f30bd30375857e4d1209977e24a89fbd95e032f6545dfefd3d09a",
+        "sha256_in_prefix": "b54813f1596f30bd30375857e4d1209977e24a89fbd95e032f6545dfefd3d09a",
+        "size_in_bytes": 2758226
+      },
+      {
+        "_path": "lib/libxeus-zmq.so",
+        "path_type": "softlink",
+        "sha256": "8919579d02c1303cac6fbf0a7ee0b401b16f41a8c60f9f5b26354dfa8bee7c84",
+        "size_in_bytes": 16
+      },
+      {
+        "_path": "lib/libxeus-zmq.so.6",
+        "path_type": "softlink",
+        "sha256": "8919579d02c1303cac6fbf0a7ee0b401b16f41a8c60f9f5b26354dfa8bee7c84",
+        "size_in_bytes": 20
+      },
+      {
+        "_path": "lib/libxeus-zmq.so.6.1.1",
+        "path_type": "hardlink",
+        "sha256": "8919579d02c1303cac6fbf0a7ee0b401b16f41a8c60f9f5b26354dfa8bee7c84",
+        "sha256_in_prefix": "8919579d02c1303cac6fbf0a7ee0b401b16f41a8c60f9f5b26354dfa8bee7c84",
+        "size_in_bytes": 726936
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "bd5ea494e33e2d96869fb0488983fc4c7fbf0d88480530982ade0403a0c59944",
+  "size": 462986,
+  "subdir": "linux-64",
+  "timestamp": 1758270942000,
+  "url": "https://repo.prefix.dev/conda-forge/linux-64/xeus-zmq-3.1.1-ha280ed4_0.conda",
+  "version": "3.1.1"
+}

@@ -1,0 +1,5 @@
+#!/workspaces/ISL-ch5-jupyterlite/venv/bin/python3.14
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()

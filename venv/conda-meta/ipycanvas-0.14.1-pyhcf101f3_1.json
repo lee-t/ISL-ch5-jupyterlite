@@ -1,0 +1,449 @@
+{
+  "build": "pyhcf101f3_1",
+  "build_number": 1,
+  "channel": "https://repo.prefix.dev/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "ipywidgets >=7.6.0,<9",
+    "numpy",
+    "pillow >=6.0",
+    "python >=3.10",
+    "python"
+  ],
+  "extracted_package_dir": "/opt/conda/pkgs/ipycanvas-0.14.1-pyhcf101f3_1",
+  "files": [
+    "etc/jupyter/nbconfig/notebook.d/ipycanvas.json",
+    "share/jupyter/labextensions/ipycanvas/package.json",
+    "share/jupyter/labextensions/ipycanvas/static/122.798ec8c3ecacb9105364.js",
+    "share/jupyter/labextensions/ipycanvas/static/287.1f872f30ec5ffd00c31b.js",
+    "share/jupyter/labextensions/ipycanvas/static/287.1f872f30ec5ffd00c31b.js.LICENSE.txt",
+    "share/jupyter/labextensions/ipycanvas/static/509.94b5c681c7259af8ec75.js",
+    "share/jupyter/labextensions/ipycanvas/static/796.c9dcb80a4759cbd09bbb.js",
+    "share/jupyter/labextensions/ipycanvas/static/819.badc5d48ed3502f8d9eb.js",
+    "share/jupyter/labextensions/ipycanvas/static/remoteEntry.3070fbdeec83a026cb93.js",
+    "share/jupyter/labextensions/ipycanvas/static/style.js",
+    "share/jupyter/labextensions/ipycanvas/static/third-party-licenses.json",
+    "share/jupyter/nbextensions/ipycanvas/extension.js",
+    "share/jupyter/nbextensions/ipycanvas/index.js",
+    "share/jupyter/nbextensions/ipycanvas/index.js.LICENSE.txt",
+    "lib/python3.14/site-packages/ipycanvas/__init__.py",
+    "lib/python3.14/site-packages/ipycanvas/_frontend.py",
+    "lib/python3.14/site-packages/ipycanvas/_version.py",
+    "lib/python3.14/site-packages/ipycanvas/call_repeated.py",
+    "lib/python3.14/site-packages/ipycanvas/canvas.py",
+    "lib/python3.14/site-packages/ipycanvas/compat.py",
+    "lib/python3.14/site-packages/ipycanvas/labextension/package.json",
+    "lib/python3.14/site-packages/ipycanvas/labextension/static/122.798ec8c3ecacb9105364.js",
+    "lib/python3.14/site-packages/ipycanvas/labextension/static/287.1f872f30ec5ffd00c31b.js",
+    "lib/python3.14/site-packages/ipycanvas/labextension/static/287.1f872f30ec5ffd00c31b.js.LICENSE.txt",
+    "lib/python3.14/site-packages/ipycanvas/labextension/static/509.94b5c681c7259af8ec75.js",
+    "lib/python3.14/site-packages/ipycanvas/labextension/static/796.c9dcb80a4759cbd09bbb.js",
+    "lib/python3.14/site-packages/ipycanvas/labextension/static/819.badc5d48ed3502f8d9eb.js",
+    "lib/python3.14/site-packages/ipycanvas/labextension/static/remoteEntry.3070fbdeec83a026cb93.js",
+    "lib/python3.14/site-packages/ipycanvas/labextension/static/style.js",
+    "lib/python3.14/site-packages/ipycanvas/labextension/static/third-party-licenses.json",
+    "lib/python3.14/site-packages/ipycanvas/nbextension/static/extension.js",
+    "lib/python3.14/site-packages/ipycanvas/nbextension/static/index.js",
+    "lib/python3.14/site-packages/ipycanvas/nbextension/static/index.js.LICENSE.txt",
+    "lib/python3.14/site-packages/ipycanvas/offscreen_canvas/__init__.py",
+    "lib/python3.14/site-packages/ipycanvas/offscreen_canvas/js/init.js",
+    "lib/python3.14/site-packages/ipycanvas/offscreen_canvas/offscreen_canvas.py",
+    "lib/python3.14/site-packages/ipycanvas/offscreen_canvas/offscreen_canvas_core.py",
+    "lib/python3.14/site-packages/ipycanvas/utils.py",
+    "lib/python3.14/site-packages/ipycanvas-0.14.1.dist-info/INSTALLER",
+    "lib/python3.14/site-packages/ipycanvas-0.14.1.dist-info/METADATA",
+    "lib/python3.14/site-packages/ipycanvas-0.14.1.dist-info/RECORD",
+    "lib/python3.14/site-packages/ipycanvas-0.14.1.dist-info/REQUESTED",
+    "lib/python3.14/site-packages/ipycanvas-0.14.1.dist-info/WHEEL",
+    "lib/python3.14/site-packages/ipycanvas-0.14.1.dist-info/direct_url.json",
+    "lib/python3.14/site-packages/ipycanvas-0.14.1.dist-info/licenses/LICENSE.txt",
+    "lib/python3.14/site-packages/ipycanvas/__pycache__/__init__.cpython-314.pyc",
+    "lib/python3.14/site-packages/ipycanvas/__pycache__/_frontend.cpython-314.pyc",
+    "lib/python3.14/site-packages/ipycanvas/__pycache__/_version.cpython-314.pyc",
+    "lib/python3.14/site-packages/ipycanvas/__pycache__/call_repeated.cpython-314.pyc",
+    "lib/python3.14/site-packages/ipycanvas/__pycache__/canvas.cpython-314.pyc",
+    "lib/python3.14/site-packages/ipycanvas/__pycache__/compat.cpython-314.pyc",
+    "lib/python3.14/site-packages/ipycanvas/offscreen_canvas/__pycache__/__init__.cpython-314.pyc",
+    "lib/python3.14/site-packages/ipycanvas/offscreen_canvas/__pycache__/offscreen_canvas.cpython-314.pyc",
+    "lib/python3.14/site-packages/ipycanvas/offscreen_canvas/__pycache__/offscreen_canvas_core.cpython-314.pyc",
+    "lib/python3.14/site-packages/ipycanvas/__pycache__/utils.cpython-314.pyc"
+  ],
+  "fn": "ipycanvas-0.14.1-pyhcf101f3_1.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/opt/conda/pkgs/ipycanvas-0.14.1-pyhcf101f3_1",
+    "type": 1
+  },
+  "md5": "f00d3cad7d9a92dc6832464b94400053",
+  "name": "ipycanvas",
+  "noarch": "python",
+  "package_tarball_full_path": "/opt/conda/pkgs/ipycanvas-0.14.1-pyhcf101f3_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "etc/jupyter/nbconfig/notebook.d/ipycanvas.json",
+        "path_type": "hardlink",
+        "sha256": "4081828f958cf10e567a466b73cb1620fbb11f508e6b8e77d1bcd725bcd08f65",
+        "sha256_in_prefix": "4081828f958cf10e567a466b73cb1620fbb11f508e6b8e77d1bcd725bcd08f65",
+        "size_in_bytes": 63
+      },
+      {
+        "_path": "share/jupyter/labextensions/ipycanvas/package.json",
+        "path_type": "hardlink",
+        "sha256": "cfc4fe45c9d7e67c11d1d08412f176b2c542b140bff5cc36f4f37db208435fd6",
+        "sha256_in_prefix": "cfc4fe45c9d7e67c11d1d08412f176b2c542b140bff5cc36f4f37db208435fd6",
+        "size_in_bytes": 2990
+      },
+      {
+        "_path": "share/jupyter/labextensions/ipycanvas/static/122.798ec8c3ecacb9105364.js",
+        "path_type": "hardlink",
+        "sha256": "798ec8c3ecacb910536429378e480ef04afbba95ce10770adb2f9606fecc572b",
+        "sha256_in_prefix": "798ec8c3ecacb910536429378e480ef04afbba95ce10770adb2f9606fecc572b",
+        "size_in_bytes": 365
+      },
+      {
+        "_path": "share/jupyter/labextensions/ipycanvas/static/287.1f872f30ec5ffd00c31b.js",
+        "path_type": "hardlink",
+        "sha256": "eae8aa1e056526a84350d801272cfa035da88aff4ffc4a891216d981cb3527ad",
+        "sha256_in_prefix": "eae8aa1e056526a84350d801272cfa035da88aff4ffc4a891216d981cb3527ad",
+        "size_in_bytes": 22170
+      },
+      {
+        "_path": "share/jupyter/labextensions/ipycanvas/static/287.1f872f30ec5ffd00c31b.js.LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "168297dcdef5665e04d02b268ffc0dddd7d99d2f74382a7baa0590edbecc6343",
+        "sha256_in_prefix": "168297dcdef5665e04d02b268ffc0dddd7d99d2f74382a7baa0590edbecc6343",
+        "size_in_bytes": 224
+      },
+      {
+        "_path": "share/jupyter/labextensions/ipycanvas/static/509.94b5c681c7259af8ec75.js",
+        "path_type": "hardlink",
+        "sha256": "94b5c681c7259af8ec750882ffc063af3416bf569c9a2599325bbafc2c6c05d0",
+        "sha256_in_prefix": "94b5c681c7259af8ec750882ffc063af3416bf569c9a2599325bbafc2c6c05d0",
+        "size_in_bytes": 712
+      },
+      {
+        "_path": "share/jupyter/labextensions/ipycanvas/static/796.c9dcb80a4759cbd09bbb.js",
+        "path_type": "hardlink",
+        "sha256": "c9dcb80a4759cbd09bbb038fe4ea12c447afb6c63953bdb5caa6e28ff47d3923",
+        "sha256_in_prefix": "c9dcb80a4759cbd09bbb038fe4ea12c447afb6c63953bdb5caa6e28ff47d3923",
+        "size_in_bytes": 29196
+      },
+      {
+        "_path": "share/jupyter/labextensions/ipycanvas/static/819.badc5d48ed3502f8d9eb.js",
+        "path_type": "hardlink",
+        "sha256": "badc5d48ed3502f8d9eb4ffc5e7080e8ad57a54fd4a17e910855890f57b4b5cc",
+        "sha256_in_prefix": "badc5d48ed3502f8d9eb4ffc5e7080e8ad57a54fd4a17e910855890f57b4b5cc",
+        "size_in_bytes": 25476
+      },
+      {
+        "_path": "share/jupyter/labextensions/ipycanvas/static/remoteEntry.3070fbdeec83a026cb93.js",
+        "path_type": "hardlink",
+        "sha256": "3070fbdeec83a026cb931b64dbcb0f7d4b1c1e3411f9e329748a736a9f41cdd5",
+        "sha256_in_prefix": "3070fbdeec83a026cb931b64dbcb0f7d4b1c1e3411f9e329748a736a9f41cdd5",
+        "size_in_bytes": 7410
+      },
+      {
+        "_path": "share/jupyter/labextensions/ipycanvas/static/style.js",
+        "path_type": "hardlink",
+        "sha256": "f8242dd194cf6824efad188b7339f17e501b7ef20a94e5738cea2cfa6b9a5d0f",
+        "sha256_in_prefix": "f8242dd194cf6824efad188b7339f17e501b7ef20a94e5738cea2cfa6b9a5d0f",
+        "size_in_bytes": 118
+      },
+      {
+        "_path": "share/jupyter/labextensions/ipycanvas/static/third-party-licenses.json",
+        "path_type": "hardlink",
+        "sha256": "5152728e3d7276ba288a9cba21ed3d7d296c93aa639a6ed66140aca1c71ae697",
+        "sha256_in_prefix": "5152728e3d7276ba288a9cba21ed3d7d296c93aa639a6ed66140aca1c71ae697",
+        "size_in_bytes": 10315
+      },
+      {
+        "_path": "share/jupyter/nbextensions/ipycanvas/extension.js",
+        "path_type": "hardlink",
+        "sha256": "a6cc1b03d6823a3c5b6337d51d097cd95edbd237057825d69c2f47150cc96932",
+        "sha256_in_prefix": "a6cc1b03d6823a3c5b6337d51d097cd95edbd237057825d69c2f47150cc96932",
+        "size_in_bytes": 409
+      },
+      {
+        "_path": "share/jupyter/nbextensions/ipycanvas/index.js",
+        "path_type": "hardlink",
+        "sha256": "132cc6aef272febf7bc20d7e95588c302e9a6471df6df6162585703d7afa3a19",
+        "sha256_in_prefix": "132cc6aef272febf7bc20d7e95588c302e9a6471df6df6162585703d7afa3a19",
+        "size_in_bytes": 77371
+      },
+      {
+        "_path": "share/jupyter/nbextensions/ipycanvas/index.js.LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "168297dcdef5665e04d02b268ffc0dddd7d99d2f74382a7baa0590edbecc6343",
+        "sha256_in_prefix": "168297dcdef5665e04d02b268ffc0dddd7d99d2f74382a7baa0590edbecc6343",
+        "size_in_bytes": 224
+      },
+      {
+        "_path": "site-packages/ipycanvas/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e984fb8e67ec77ba468bf6142299ad69b6b0e61e8a25e3da802c0b00628950c0",
+        "sha256_in_prefix": "e984fb8e67ec77ba468bf6142299ad69b6b0e61e8a25e3da802c0b00628950c0",
+        "size_in_bytes": 674
+      },
+      {
+        "_path": "site-packages/ipycanvas/_frontend.py",
+        "path_type": "hardlink",
+        "sha256": "7a35f04be6920282dcfbfac6135af9fbdc2f9782ff01b6980f04e60732d172fd",
+        "sha256_in_prefix": "7a35f04be6920282dcfbfac6135af9fbdc2f9782ff01b6980f04e60732d172fd",
+        "size_in_bytes": 244
+      },
+      {
+        "_path": "site-packages/ipycanvas/_version.py",
+        "path_type": "hardlink",
+        "sha256": "3b023f603d792898eb241ded871e90d365299a6124295d7222466efa11f4ecc2",
+        "sha256_in_prefix": "3b023f603d792898eb241ded871e90d365299a6124295d7222466efa11f4ecc2",
+        "size_in_bytes": 152
+      },
+      {
+        "_path": "site-packages/ipycanvas/call_repeated.py",
+        "path_type": "hardlink",
+        "sha256": "c5cd73ac724ccc9002acbbe5f5a577f26ae6f0af119b8b187090706f9089783d",
+        "sha256_in_prefix": "c5cd73ac724ccc9002acbbe5f5a577f26ae6f0af119b8b187090706f9089783d",
+        "size_in_bytes": 5695
+      },
+      {
+        "_path": "site-packages/ipycanvas/canvas.py",
+        "path_type": "hardlink",
+        "sha256": "a3dae66e04316b3308fcc400c5fb3912138b254fb2076fd981b80a218caa5db4",
+        "sha256_in_prefix": "a3dae66e04316b3308fcc400c5fb3912138b254fb2076fd981b80a218caa5db4",
+        "size_in_bytes": 70606
+      },
+      {
+        "_path": "site-packages/ipycanvas/compat.py",
+        "path_type": "hardlink",
+        "sha256": "63c4e82c2b10ef67da2b4b4f3f7766ff307614d6603d30c848dc9925d1b50168",
+        "sha256_in_prefix": "63c4e82c2b10ef67da2b4b4f3f7766ff307614d6603d30c848dc9925d1b50168",
+        "size_in_bytes": 2892
+      },
+      {
+        "_path": "site-packages/ipycanvas/labextension/package.json",
+        "path_type": "hardlink",
+        "sha256": "cfc4fe45c9d7e67c11d1d08412f176b2c542b140bff5cc36f4f37db208435fd6",
+        "sha256_in_prefix": "cfc4fe45c9d7e67c11d1d08412f176b2c542b140bff5cc36f4f37db208435fd6",
+        "size_in_bytes": 2990
+      },
+      {
+        "_path": "site-packages/ipycanvas/labextension/static/122.798ec8c3ecacb9105364.js",
+        "path_type": "hardlink",
+        "sha256": "798ec8c3ecacb910536429378e480ef04afbba95ce10770adb2f9606fecc572b",
+        "sha256_in_prefix": "798ec8c3ecacb910536429378e480ef04afbba95ce10770adb2f9606fecc572b",
+        "size_in_bytes": 365
+      },
+      {
+        "_path": "site-packages/ipycanvas/labextension/static/287.1f872f30ec5ffd00c31b.js",
+        "path_type": "hardlink",
+        "sha256": "eae8aa1e056526a84350d801272cfa035da88aff4ffc4a891216d981cb3527ad",
+        "sha256_in_prefix": "eae8aa1e056526a84350d801272cfa035da88aff4ffc4a891216d981cb3527ad",
+        "size_in_bytes": 22170
+      },
+      {
+        "_path": "site-packages/ipycanvas/labextension/static/287.1f872f30ec5ffd00c31b.js.LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "168297dcdef5665e04d02b268ffc0dddd7d99d2f74382a7baa0590edbecc6343",
+        "sha256_in_prefix": "168297dcdef5665e04d02b268ffc0dddd7d99d2f74382a7baa0590edbecc6343",
+        "size_in_bytes": 224
+      },
+      {
+        "_path": "site-packages/ipycanvas/labextension/static/509.94b5c681c7259af8ec75.js",
+        "path_type": "hardlink",
+        "sha256": "94b5c681c7259af8ec750882ffc063af3416bf569c9a2599325bbafc2c6c05d0",
+        "sha256_in_prefix": "94b5c681c7259af8ec750882ffc063af3416bf569c9a2599325bbafc2c6c05d0",
+        "size_in_bytes": 712
+      },
+      {
+        "_path": "site-packages/ipycanvas/labextension/static/796.c9dcb80a4759cbd09bbb.js",
+        "path_type": "hardlink",
+        "sha256": "c9dcb80a4759cbd09bbb038fe4ea12c447afb6c63953bdb5caa6e28ff47d3923",
+        "sha256_in_prefix": "c9dcb80a4759cbd09bbb038fe4ea12c447afb6c63953bdb5caa6e28ff47d3923",
+        "size_in_bytes": 29196
+      },
+      {
+        "_path": "site-packages/ipycanvas/labextension/static/819.badc5d48ed3502f8d9eb.js",
+        "path_type": "hardlink",
+        "sha256": "badc5d48ed3502f8d9eb4ffc5e7080e8ad57a54fd4a17e910855890f57b4b5cc",
+        "sha256_in_prefix": "badc5d48ed3502f8d9eb4ffc5e7080e8ad57a54fd4a17e910855890f57b4b5cc",
+        "size_in_bytes": 25476
+      },
+      {
+        "_path": "site-packages/ipycanvas/labextension/static/remoteEntry.3070fbdeec83a026cb93.js",
+        "path_type": "hardlink",
+        "sha256": "3070fbdeec83a026cb931b64dbcb0f7d4b1c1e3411f9e329748a736a9f41cdd5",
+        "sha256_in_prefix": "3070fbdeec83a026cb931b64dbcb0f7d4b1c1e3411f9e329748a736a9f41cdd5",
+        "size_in_bytes": 7410
+      },
+      {
+        "_path": "site-packages/ipycanvas/labextension/static/style.js",
+        "path_type": "hardlink",
+        "sha256": "f8242dd194cf6824efad188b7339f17e501b7ef20a94e5738cea2cfa6b9a5d0f",
+        "sha256_in_prefix": "f8242dd194cf6824efad188b7339f17e501b7ef20a94e5738cea2cfa6b9a5d0f",
+        "size_in_bytes": 118
+      },
+      {
+        "_path": "site-packages/ipycanvas/labextension/static/third-party-licenses.json",
+        "path_type": "hardlink",
+        "sha256": "5152728e3d7276ba288a9cba21ed3d7d296c93aa639a6ed66140aca1c71ae697",
+        "sha256_in_prefix": "5152728e3d7276ba288a9cba21ed3d7d296c93aa639a6ed66140aca1c71ae697",
+        "size_in_bytes": 10315
+      },
+      {
+        "_path": "site-packages/ipycanvas/nbextension/static/extension.js",
+        "path_type": "hardlink",
+        "sha256": "a6cc1b03d6823a3c5b6337d51d097cd95edbd237057825d69c2f47150cc96932",
+        "sha256_in_prefix": "a6cc1b03d6823a3c5b6337d51d097cd95edbd237057825d69c2f47150cc96932",
+        "size_in_bytes": 409
+      },
+      {
+        "_path": "site-packages/ipycanvas/nbextension/static/index.js",
+        "path_type": "hardlink",
+        "sha256": "132cc6aef272febf7bc20d7e95588c302e9a6471df6df6162585703d7afa3a19",
+        "sha256_in_prefix": "132cc6aef272febf7bc20d7e95588c302e9a6471df6df6162585703d7afa3a19",
+        "size_in_bytes": 77371
+      },
+      {
+        "_path": "site-packages/ipycanvas/nbextension/static/index.js.LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "168297dcdef5665e04d02b268ffc0dddd7d99d2f74382a7baa0590edbecc6343",
+        "sha256_in_prefix": "168297dcdef5665e04d02b268ffc0dddd7d99d2f74382a7baa0590edbecc6343",
+        "size_in_bytes": 224
+      },
+      {
+        "_path": "site-packages/ipycanvas/offscreen_canvas/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a7c0501fc2237aa789df7b45cf2e8a88e1f2388d17c3227ceb78122e114ad97a",
+        "sha256_in_prefix": "a7c0501fc2237aa789df7b45cf2e8a88e1f2388d17c3227ceb78122e114ad97a",
+        "size_in_bytes": 112
+      },
+      {
+        "_path": "site-packages/ipycanvas/offscreen_canvas/js/init.js",
+        "path_type": "hardlink",
+        "sha256": "8b555163e92cbc228665f5da6e440e969998d3fbcfaf1de514e38dd36513fd73",
+        "sha256_in_prefix": "8b555163e92cbc228665f5da6e440e969998d3fbcfaf1de514e38dd36513fd73",
+        "size_in_bytes": 18260
+      },
+      {
+        "_path": "site-packages/ipycanvas/offscreen_canvas/offscreen_canvas.py",
+        "path_type": "hardlink",
+        "sha256": "8cfb6c25878f821b59f6b0e98ff347773f79117705965c48ec7fd9ab56c037f9",
+        "sha256_in_prefix": "8cfb6c25878f821b59f6b0e98ff347773f79117705965c48ec7fd9ab56c037f9",
+        "size_in_bytes": 26511
+      },
+      {
+        "_path": "site-packages/ipycanvas/offscreen_canvas/offscreen_canvas_core.py",
+        "path_type": "hardlink",
+        "sha256": "18fc5b75c650fb9cf1b33e7a2769423e851f76c35cb84d224b2f4956c2fd1785",
+        "sha256_in_prefix": "18fc5b75c650fb9cf1b33e7a2769423e851f76c35cb84d224b2f4956c2fd1785",
+        "size_in_bytes": 11168
+      },
+      {
+        "_path": "site-packages/ipycanvas/utils.py",
+        "path_type": "hardlink",
+        "sha256": "5bbac9011d6a5c3b41bbd226fe557d73ad7d5c2b2fcfd6cd43c8063c67138ea2",
+        "sha256_in_prefix": "5bbac9011d6a5c3b41bbd226fe557d73ad7d5c2b2fcfd6cd43c8063c67138ea2",
+        "size_in_bytes": 1925
+      },
+      {
+        "_path": "site-packages/ipycanvas-0.14.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "bc33022edcb7639ff53355b4e91dade50a0bbf0299efeb6171d1ec0ba5029cfc",
+        "sha256_in_prefix": "bc33022edcb7639ff53355b4e91dade50a0bbf0299efeb6171d1ec0ba5029cfc",
+        "size_in_bytes": 6
+      },
+      {
+        "_path": "site-packages/ipycanvas-0.14.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "d81f3b6a2a18ae275f9513d68e10f070b02476c3dc368e661147151e34bb82b1",
+        "sha256_in_prefix": "d81f3b6a2a18ae275f9513d68e10f070b02476c3dc368e661147151e34bb82b1",
+        "size_in_bytes": 6328
+      },
+      {
+        "_path": "site-packages/ipycanvas-0.14.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "c6877d5a396689bf3b53069725e8fa67d24d2e1f5be8e39a2d22e6fc58f3716a",
+        "sha256_in_prefix": "c6877d5a396689bf3b53069725e8fa67d24d2e1f5be8e39a2d22e6fc58f3716a",
+        "size_in_bytes": 5388
+      },
+      {
+        "_path": "site-packages/ipycanvas-0.14.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/ipycanvas-0.14.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "b649a0e0922ac1df47f262f7d3103b72b466a12b720ad1a9d155ac86891dd497",
+        "sha256_in_prefix": "b649a0e0922ac1df47f262f7d3103b72b466a12b720ad1a9d155ac86891dd497",
+        "size_in_bytes": 105
+      },
+      {
+        "_path": "site-packages/ipycanvas-0.14.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "32bd26a58ae12de1f64737df8581a0cd4cacba544a02aa13f9df8ee5d9961a45",
+        "sha256_in_prefix": "32bd26a58ae12de1f64737df8581a0cd4cacba544a02aa13f9df8ee5d9961a45",
+        "size_in_bytes": 120
+      },
+      {
+        "_path": "site-packages/ipycanvas-0.14.1.dist-info/licenses/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "12ac768d8951e25dc57408345f228bcf27dc402044bef92b0f487cc551eab786",
+        "sha256_in_prefix": "12ac768d8951e25dc57408345f228bcf27dc402044bef92b0f487cc551eab786",
+        "size_in_bytes": 1497
+      },
+      {
+        "_path": "lib/python3.14/site-packages/ipycanvas/__pycache__/__init__.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/ipycanvas/__pycache__/_frontend.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/ipycanvas/__pycache__/_version.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/ipycanvas/__pycache__/call_repeated.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/ipycanvas/__pycache__/canvas.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/ipycanvas/__pycache__/compat.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/ipycanvas/offscreen_canvas/__pycache__/__init__.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/ipycanvas/offscreen_canvas/__pycache__/offscreen_canvas.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/ipycanvas/offscreen_canvas/__pycache__/offscreen_canvas_core.cpython-314.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.14/site-packages/ipycanvas/__pycache__/utils.cpython-314.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "ipycanvas",
+  "sha256": "0bae48226b3d6aea4e6083e645dd57063d10ecf64c23abe2112c18b76e77f72e",
+  "size": 87916,
+  "subdir": "noarch",
+  "timestamp": 1756107922000,
+  "url": "https://repo.prefix.dev/conda-forge/noarch/ipycanvas-0.14.1-pyhcf101f3_1.conda",
+  "version": "0.14.1"
+}

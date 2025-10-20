@@ -1,0 +1,238 @@
+{
+  "build": "py314hc43b2c7_0",
+  "build_number": 0,
+  "channel": "https://repo.prefix.dev/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python",
+    "xeus-python-shell >=0.6.3,<0.7",
+    "debugpy >=1.1.0,<2.0",
+    "pygments >=2.3.1,<3",
+    "__glibc >=2.17,<3.0.a0",
+    "libstdcxx >=14",
+    "libgcc >=14",
+    "python_abi 3.14.* *_cp314",
+    "nlohmann_json-abi 3.12.0",
+    "xeus-zmq >=3.1.1,<3.2.0a0"
+  ],
+  "extracted_package_dir": "/opt/conda/pkgs/xeus-python-0.17.5-py314hc43b2c7_0",
+  "files": [
+    "bin/xpython",
+    "include/xeus-python/xdebugger.hpp",
+    "include/xeus-python/xeus_python_config.hpp",
+    "include/xeus-python/xinterpreter.hpp",
+    "include/xeus-python/xinterpreter_raw.hpp",
+    "include/xeus-python/xpaths.hpp",
+    "include/xeus-python/xtraceback.hpp",
+    "include/xeus-python/xutils.hpp",
+    "lib/cmake/xeus-python/xeus-pythonConfig.cmake",
+    "lib/cmake/xeus-python/xeus-pythonConfigVersion.cmake",
+    "lib/cmake/xeus-python/xeus-pythonTargets-release.cmake",
+    "lib/cmake/xeus-python/xeus-pythonTargets.cmake",
+    "lib/libxeus-python.a",
+    "lib/libxeus-python.so",
+    "lib/libxeus-python.so.0",
+    "lib/libxeus-python.so.0.17.5",
+    "share/jupyter/kernels/xpython/kernel.json",
+    "share/jupyter/kernels/xpython/logo-32x32.png",
+    "share/jupyter/kernels/xpython/logo-64x64.png",
+    "share/jupyter/kernels/xpython/logo-svg.svg",
+    "share/jupyter/kernels/xpython-raw/kernel.json",
+    "share/jupyter/kernels/xpython-raw/logo-32x32.png",
+    "share/jupyter/kernels/xpython-raw/logo-64x64.png",
+    "share/jupyter/kernels/xpython-raw/logo-svg.svg"
+  ],
+  "fn": "xeus-python-0.17.5-py314hc43b2c7_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/opt/conda/pkgs/xeus-python-0.17.5-py314hc43b2c7_0",
+    "type": 1
+  },
+  "md5": "124a0c92380e9306864d87b2c2ac5426",
+  "name": "xeus-python",
+  "package_tarball_full_path": "/opt/conda/pkgs/xeus-python-0.17.5-py314hc43b2c7_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/xpython",
+        "path_type": "hardlink",
+        "sha256": "e25956fe322f73f0c69cae055c3877ebd7683d9d040ec455be6120cfa01d8cdd",
+        "sha256_in_prefix": "e25956fe322f73f0c69cae055c3877ebd7683d9d040ec455be6120cfa01d8cdd",
+        "size_in_bytes": 193096
+      },
+      {
+        "_path": "include/xeus-python/xdebugger.hpp",
+        "path_type": "hardlink",
+        "sha256": "853472fa20f3799a085053dd90d41fe4570a0796af2427961fcc051ab7840060",
+        "sha256_in_prefix": "853472fa20f3799a085053dd90d41fe4570a0796af2427961fcc051ab7840060",
+        "size_in_bytes": 3054
+      },
+      {
+        "_path": "include/xeus-python/xeus_python_config.hpp",
+        "path_type": "hardlink",
+        "sha256": "370edb1e5bbe923b320313363b2f648dffb58ab9fdbd72d05a7c5598368a7e11",
+        "sha256_in_prefix": "370edb1e5bbe923b320313363b2f648dffb58ab9fdbd72d05a7c5598368a7e11",
+        "size_in_bytes": 1806
+      },
+      {
+        "_path": "include/xeus-python/xinterpreter.hpp",
+        "path_type": "hardlink",
+        "sha256": "ce113ea7713c9a273b5cedf898a734e5b65b254ee89c19b5e87ea436e9536832",
+        "sha256_in_prefix": "ce113ea7713c9a273b5cedf898a734e5b65b254ee89c19b5e87ea436e9536832",
+        "size_in_bytes": 4153
+      },
+      {
+        "_path": "include/xeus-python/xinterpreter_raw.hpp",
+        "path_type": "hardlink",
+        "sha256": "9c123e67d7157cbb5b9caa899f0eac3f13cd1d00a6a34431287ee3decb8689dd",
+        "sha256_in_prefix": "9c123e67d7157cbb5b9caa899f0eac3f13cd1d00a6a34431287ee3decb8689dd",
+        "size_in_bytes": 3642
+      },
+      {
+        "_path": "include/xeus-python/xpaths.hpp",
+        "path_type": "hardlink",
+        "sha256": "eacb600c9068396f39bab0ea355a7bd3a1c51ea154722b67a2c228569fb33109",
+        "sha256_in_prefix": "eacb600c9068396f39bab0ea355a7bd3a1c51ea154722b67a2c228569fb33109",
+        "size_in_bytes": 1117
+      },
+      {
+        "_path": "include/xeus-python/xtraceback.hpp",
+        "path_type": "hardlink",
+        "sha256": "4338154f07c5425ac3812188d9cc53b454f7b69dc8192bfd53be7a94d20c80ca",
+        "sha256_in_prefix": "4338154f07c5425ac3812188d9cc53b454f7b69dc8192bfd53be7a94d20c80ca",
+        "size_in_bytes": 1383
+      },
+      {
+        "_path": "include/xeus-python/xutils.hpp",
+        "path_type": "hardlink",
+        "sha256": "3e2b55c83852ef9cbe544689ba4e83cf7714a086eba1276c9b9b0969097ec8fe",
+        "sha256_in_prefix": "3e2b55c83852ef9cbe544689ba4e83cf7714a086eba1276c9b9b0969097ec8fe",
+        "size_in_bytes": 2115
+      },
+      {
+        "_path": "lib/cmake/xeus-python/xeus-pythonConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "44d88b102925d4059c95e295d78e8d6a95558b8c1908b95c745048326c1c9277",
+        "sha256_in_prefix": "44d88b102925d4059c95e295d78e8d6a95558b8c1908b95c745048326c1c9277",
+        "size_in_bytes": 2994
+      },
+      {
+        "_path": "lib/cmake/xeus-python/xeus-pythonConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "740c1ae596755058457760bc6f25da84484870d58dd45012b60696efe387db4e",
+        "sha256_in_prefix": "740c1ae596755058457760bc6f25da84484870d58dd45012b60696efe387db4e",
+        "size_in_bytes": 1862
+      },
+      {
+        "_path": "lib/cmake/xeus-python/xeus-pythonTargets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "791705b1f04d8d0c6d86482ac70db284d72349f87ed34eeb7f906aa814468751",
+        "sha256_in_prefix": "791705b1f04d8d0c6d86482ac70db284d72349f87ed34eeb7f906aa814468751",
+        "size_in_bytes": 1347
+      },
+      {
+        "_path": "lib/cmake/xeus-python/xeus-pythonTargets.cmake",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/bld/rattler-build_xeus-python_1758307593/host_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "59f62548fd27073c8f6b4f6ffdd2ef6aec671d14a27d994083e80dce257f8812",
+        "sha256_in_prefix": "3f93256cd1a5408456dd15affc6a47840a006036ebe242d8d235ddab26787055",
+        "size_in_bytes": 5296
+      },
+      {
+        "_path": "lib/libxeus-python.a",
+        "path_type": "hardlink",
+        "sha256": "e692310f058457d0aaacbb9dbbef25a166412c4f171e52db725e8df15f6a5f5f",
+        "sha256_in_prefix": "e692310f058457d0aaacbb9dbbef25a166412c4f171e52db725e8df15f6a5f5f",
+        "size_in_bytes": 6225464
+      },
+      {
+        "_path": "lib/libxeus-python.so",
+        "path_type": "softlink",
+        "sha256": "880d3ba8c40dc76a0b25ad839b4c559dbe0f1d2fe075b4a01abff751b747b781",
+        "size_in_bytes": 19
+      },
+      {
+        "_path": "lib/libxeus-python.so.0",
+        "path_type": "softlink",
+        "sha256": "880d3ba8c40dc76a0b25ad839b4c559dbe0f1d2fe075b4a01abff751b747b781",
+        "size_in_bytes": 24
+      },
+      {
+        "_path": "lib/libxeus-python.so.0.17.5",
+        "path_type": "hardlink",
+        "sha256": "880d3ba8c40dc76a0b25ad839b4c559dbe0f1d2fe075b4a01abff751b747b781",
+        "sha256_in_prefix": "880d3ba8c40dc76a0b25ad839b4c559dbe0f1d2fe075b4a01abff751b747b781",
+        "size_in_bytes": 1118760
+      },
+      {
+        "_path": "share/jupyter/kernels/xpython/kernel.json",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/bld/rattler-build_xeus-python_1758307593/host_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "07e237d386fac66eeafd1ae763e66e3ef87a238b71a0b684de5092455820b56f",
+        "sha256_in_prefix": "eee1590fdf9bad83e0d2a35e2a1f0f5eb2a1f463d47341b543c3c8daeba8276b",
+        "size_in_bytes": 437
+      },
+      {
+        "_path": "share/jupyter/kernels/xpython/logo-32x32.png",
+        "path_type": "hardlink",
+        "sha256": "1e8879381b265054f844110c847a4a6fffa330b52cb13593eb44969deb4a433a",
+        "sha256_in_prefix": "1e8879381b265054f844110c847a4a6fffa330b52cb13593eb44969deb4a433a",
+        "size_in_bytes": 947
+      },
+      {
+        "_path": "share/jupyter/kernels/xpython/logo-64x64.png",
+        "path_type": "hardlink",
+        "sha256": "e3b7a9abc771afd18a6b7ac7e067ddc1c0d412adae7b2980f14ea8389e15e431",
+        "sha256_in_prefix": "e3b7a9abc771afd18a6b7ac7e067ddc1c0d412adae7b2980f14ea8389e15e431",
+        "size_in_bytes": 1864
+      },
+      {
+        "_path": "share/jupyter/kernels/xpython/logo-svg.svg",
+        "path_type": "hardlink",
+        "sha256": "80732b94f2b0b9372eefdc2a227558773558cf99934ce38710f1a231ed16a4d4",
+        "sha256_in_prefix": "80732b94f2b0b9372eefdc2a227558773558cf99934ce38710f1a231ed16a4d4",
+        "size_in_bytes": 1729
+      },
+      {
+        "_path": "share/jupyter/kernels/xpython-raw/kernel.json",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/bld/rattler-build_xeus-python_1758307593/host_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "19663055cb400e6e01867c7baffab045741d5a044b9e93b09cd7daa7afdc8106",
+        "sha256_in_prefix": "1e08a2c817f5498f196e3ba2314bfaff926bfc2b1d11745e64f389253c618050",
+        "size_in_bytes": 458
+      },
+      {
+        "_path": "share/jupyter/kernels/xpython-raw/logo-32x32.png",
+        "path_type": "hardlink",
+        "sha256": "1e8879381b265054f844110c847a4a6fffa330b52cb13593eb44969deb4a433a",
+        "sha256_in_prefix": "1e8879381b265054f844110c847a4a6fffa330b52cb13593eb44969deb4a433a",
+        "size_in_bytes": 947
+      },
+      {
+        "_path": "share/jupyter/kernels/xpython-raw/logo-64x64.png",
+        "path_type": "hardlink",
+        "sha256": "e3b7a9abc771afd18a6b7ac7e067ddc1c0d412adae7b2980f14ea8389e15e431",
+        "sha256_in_prefix": "e3b7a9abc771afd18a6b7ac7e067ddc1c0d412adae7b2980f14ea8389e15e431",
+        "size_in_bytes": 1864
+      },
+      {
+        "_path": "share/jupyter/kernels/xpython-raw/logo-svg.svg",
+        "path_type": "hardlink",
+        "sha256": "80732b94f2b0b9372eefdc2a227558773558cf99934ce38710f1a231ed16a4d4",
+        "sha256_in_prefix": "80732b94f2b0b9372eefdc2a227558773558cf99934ce38710f1a231ed16a4d4",
+        "size_in_bytes": 1729
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "xeus-python",
+  "sha256": "aa18f9b7e8daa8a30a3f7a5c9a5b99ec1fcc7350424420e12de6875dd03ef564",
+  "size": 1073541,
+  "subdir": "linux-64",
+  "timestamp": 1758307593000,
+  "url": "https://repo.prefix.dev/conda-forge/linux-64/xeus-python-0.17.5-py314hc43b2c7_0.conda",
+  "version": "0.17.5"
+}

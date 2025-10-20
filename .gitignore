@@ -37,6 +37,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+venv/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -114,3 +115,9 @@ dmypy.json
 # jupyterlite
 *.doit.db
 _output
+
+# Virtualenvs
+# Ignore common virtual environment directories
+.venv/
+venv/
+env/
